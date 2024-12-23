@@ -1,7 +1,3 @@
-<script>
-  document.querySelector('svg').style.backgroundColor = '#ffeeee';
-</script>
-
 # Logo-for-"client"
 ## Overview
 This project documents the design process and thought behind creating a custom logo for my mother. The logo combines a hand-drawn camera icon with her name, "Abigél," written in a flowing script style.
